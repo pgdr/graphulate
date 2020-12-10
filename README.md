@@ -1,2 +1,1 @@
-# graphulate
-Graphulate is the universal to and fro graph formatter
+# graphulate — the universal to and fro graph formatter
